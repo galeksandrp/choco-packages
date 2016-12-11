@@ -58,3 +58,4 @@ Zimmermann's Chocolatey packages
 
 **Hg** branch: [bitbucket.org/userzimmermann/choco-packages/src/idris](
   https://bitbucket.org/userzimmermann/choco-packages/src/idris)
+
